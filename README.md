@@ -21,6 +21,13 @@
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alibou_coding" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@vsvdev8773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="boualiali" height="30" width="40" /></a>
 <a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Xcw6JyptqA" height="30" width="40" /></a>
+  <a href="https://github.com/vsvdevua" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="your-username" height="30" width="40" />
+</a>
+<a href="https://github.com/svoronkovdevops" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="another-username" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages:</h3>
@@ -142,6 +149,10 @@
 </p>
  
 
+<h3 align="left">Certifications:</h3>
+<p align="left"> 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c48a48f0-cc5e-492c-a978-b1ec8c992fb8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</p>
 
 
 <div align="center">
