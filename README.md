@@ -181,7 +181,7 @@
 </a>
 
 <a href="YOUR_GOOGLE_CLOUD_PROFESSIONAL_URL">
-  <img src="badges/google-cloud-professional.png" alt="Google Cloud Certified Professional Cloud Engineer" width="100"/>
+  <img src="[badges/google-cloud-professional.png](https://images.credly.com/size/80x80/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png)" alt="Google Cloud Certified Professional Cloud Engineer" width="100"/>
 </a>
 
 </p>
