@@ -157,9 +157,7 @@
 <img src="https://img.shields.io/badge/Azure_Data_Fundamentals-blue?style=for-the-badge&logo=microsoft-azure" alt="Azure Data Fundamentals"/>
 <img src="https://img.shields.io/badge/Security_Compliance_and_Identity_Fundamentals-blue?style=for-the-badge&logo=microsoft-azure" alt="Security, Compliance, and Identity Fundamentals"/>
 
-<img src="path/to/azure-fundamentals-badge.png" alt="Azure Fundamentals" width="200"/>
-<img src="path/to/azure-data-fundamentals-badge.png" alt="Azure Data Fundamentals" width="200"/>
-<img src="path/to/security-badge.png" alt="Security, Compliance, and Identity Fundamentals" width="200"/>
+You can verify my certifications on [My Microsoft Learn Profile](your_microsoft_learn_profile_url).  (Replace with your actual link)
 </p>
 
 
