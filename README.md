@@ -153,10 +153,17 @@
 <p align="left"> 
 ## Certifications
 
-<img src="https://img.shields.io/badge/Azure_Fundamentals-blue?style=for-the-badge&logo=microsoft-azure" alt="Azure Fundamentals"/>
-<img src="https://img.shields.io/badge/Azure_Data_Fundamentals-blue?style=for-the-badge&logo=microsoft-azure" alt="Azure Data Fundamentals"/>
-<img src="https://img.shields.io/badge/Security_Compliance_and_Identity_Fundamentals-blue?style=for-the-badge&logo=microsoft-azure" alt="Security, Compliance, and Identity Fundamentals"/>
+<a href="YOUR_CREDLY_CREDENTIAL_URL_AZURE_FUNDAMENTALS">
+  <img src="https://images.credly.com/size/80x80/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals" width="80"/>
+</a>
 
+<a href="YOUR_CREDLY_CREDENTIAL_URL_AZURE_DATA">
+  <img src="badges/azure-data-fundamentals.png" alt="Microsoft Certified: Azure Data Fundamentals" width="80"/>
+</a>
+
+<a href="YOUR_CREDLY_CREDENTIAL_URL_SECURITY">
+  <img src="badges/security-compliance.png" alt="Microsoft Certified: Security, Compliance, and Identity Fundamentals" width="80"/>
+</a>
 You can verify my certifications on [My Microsoft Learn Profile](your_microsoft_learn_profile_url).  (Replace with your actual link)
 </p>
 
