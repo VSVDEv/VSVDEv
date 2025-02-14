@@ -181,9 +181,18 @@
 </a>
 
 <a href="YOUR_GOOGLE_CLOUD_PROFESSIONAL_URL">
-  <img src="[badges/google-cloud-professional.png](https://images.credly.com/size/80x80/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png)" alt="Google Cloud Certified Professional Cloud Engineer" width="100"/>
+  <img src="https://images.credly.com/size/80x80/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" alt="Google Cloud Certified Professional Cloud Engineer" width="100"/>
 </a>
 
+<a href="YOUR_GOOGLE_CYBERSECURITY">
+  <img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cybersecurity" width="100"/>
+</a>
+<a href="YOUR_GOOGLE_PM">
+  <img src="https://images.credly.com/size/80x80/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png" alt="Google Project Management" width="100"/>
+</a>
+<a href="YOUR_GOOGLE_IT_AUTOMATION">
+  <img src="https://images.credly.com/size/80x80/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" alt="Google Automation IT Engineer" width="100"/>
+</a>
 </p>
 
 
