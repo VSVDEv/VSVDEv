@@ -151,25 +151,15 @@
 
 <h3 align="left">Certifications:</h3>
 <p align="left"> 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c48a48f0-cc5e-492c-a978-b1ec8c992fb8" data-share-badge-host="https://www.credly.com"></div>
-<li>
-    <a href="https://learn.microsoft.com/en-us/certifications/azure-fundamentals/" target="blank">
-      <img src="https://via.placeholder.com/150x50?text=Microsoft+Azure+Fundamentals" alt="Microsoft Certified: Azure Fundamentals" height="30" width="100" />
-      Microsoft Certified: Azure Fundamentals - Issued by Microsoft
-    </a>
-  </li>
-  <li>
-    <a href="https://learn.microsoft.com/en-us/certifications/azure-data-fundamentals/" target="blank">
-      <img src="https://via.placeholder.com/150x50?text=Microsoft+Azure+Data+Fundamentals" alt="Microsoft Certified: Azure Data Fundamentals" height="30" width="100" />
-      Microsoft Certified: Azure Data Fundamentals - Issued by Microsoft
-    </a>
-  </li>
-  <li>
-    <a href="https://learn.microsoft.com/en-us/certifications/security-compliance-identity-fundamentals/" target="blank">
-      <img src="https://via.placeholder.com/150x50?text=Microsoft+Security+Compliance+Fundamentals" alt="Microsoft Certified: Security, Compliance, and Identity Fundamentals" height="30" width="100" />
-      Microsoft Certified: Security, Compliance, and Identity Fundamentals - Issued by Microsoft
-    </a>
-  </li>
+## Certifications
+
+<img src="https://img.shields.io/badge/Azure_Fundamentals-blue?style=for-the-badge&logo=microsoft-azure" alt="Azure Fundamentals"/>
+<img src="https://img.shields.io/badge/Azure_Data_Fundamentals-blue?style=for-the-badge&logo=microsoft-azure" alt="Azure Data Fundamentals"/>
+<img src="https://img.shields.io/badge/Security_Compliance_and_Identity_Fundamentals-blue?style=for-the-badge&logo=microsoft-azure" alt="Security, Compliance, and Identity Fundamentals"/>
+
+<img src="path/to/azure-fundamentals-badge.png" alt="Azure Fundamentals" width="200"/>
+<img src="path/to/azure-data-fundamentals-badge.png" alt="Azure Data Fundamentals" width="200"/>
+<img src="path/to/security-badge.png" alt="Security, Compliance, and Identity Fundamentals" width="200"/>
 </p>
 
 
