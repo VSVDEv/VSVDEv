@@ -151,7 +151,25 @@
 
 <h3 align="left">Certifications:</h3>
 <p align="left"> 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c48a48f0-cc5e-492c-a978-b1ec8c992fb8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c48a48f0-cc5e-492c-a978-b1ec8c992fb8" data-share-badge-host="https://www.credly.com"></div>
+<li>
+    <a href="https://learn.microsoft.com/en-us/certifications/azure-fundamentals/" target="blank">
+      <img src="https://via.placeholder.com/150x50?text=Microsoft+Azure+Fundamentals" alt="Microsoft Certified: Azure Fundamentals" height="30" width="100" />
+      Microsoft Certified: Azure Fundamentals - Issued by Microsoft
+    </a>
+  </li>
+  <li>
+    <a href="https://learn.microsoft.com/en-us/certifications/azure-data-fundamentals/" target="blank">
+      <img src="https://via.placeholder.com/150x50?text=Microsoft+Azure+Data+Fundamentals" alt="Microsoft Certified: Azure Data Fundamentals" height="30" width="100" />
+      Microsoft Certified: Azure Data Fundamentals - Issued by Microsoft
+    </a>
+  </li>
+  <li>
+    <a href="https://learn.microsoft.com/en-us/certifications/security-compliance-identity-fundamentals/" target="blank">
+      <img src="https://via.placeholder.com/150x50?text=Microsoft+Security+Compliance+Fundamentals" alt="Microsoft Certified: Security, Compliance, and Identity Fundamentals" height="30" width="100" />
+      Microsoft Certified: Security, Compliance, and Identity Fundamentals - Issued by Microsoft
+    </a>
+  </li>
 </p>
 
 
