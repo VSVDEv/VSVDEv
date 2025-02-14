@@ -27,6 +27,8 @@
 <a href="https://github.com/svoronkovdevops" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="another-username" height="30" width="40" />
 </a>
+<a href="http://vsvdev.co.ua" target="_blank">  <img align="center" src="https://vsvdev007.github.io/assets/icons/logo.svg" alt="Website 1" height="30" width="40" /></a>
+<a href="https://vsvdev007.github.io" target="_blank">  <img align="center" src="https://vsvdev007.github.io/assets/icons/logo.svg" alt="Website 2" height="30" width="40" /></a>
 
 </p>
 
