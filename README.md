@@ -151,20 +151,39 @@
 
 <h3 align="left">Certifications:</h3>
 <p align="left"> 
-## Certifications
-
 <a href="YOUR_CREDLY_CREDENTIAL_URL_AZURE_FUNDAMENTALS">
   <img src="https://images.credly.com/size/80x80/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals" width="80"/>
 </a>
 
 <a href="YOUR_CREDLY_CREDENTIAL_URL_AZURE_DATA">
-  <img src="badges/azure-data-fundamentals.png" alt="Microsoft Certified: Azure Data Fundamentals" width="80"/>
+  <img src="https://images.credly.com/size/80x80/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Microsoft Certified: Azure Data Fundamentals" width="80"/>
 </a>
 
 <a href="YOUR_CREDLY_CREDENTIAL_URL_SECURITY">
-  <img src="badges/security-compliance.png" alt="Microsoft Certified: Security, Compliance, and Identity Fundamentals" width="80"/>
+  <img src="https://images.credly.com/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" alt="Microsoft Certified: Security, Compliance, and Identity Fundamentals" width="80"/>
 </a>
-You can verify my certifications on [My Microsoft Learn Profile](your_microsoft_learn_profile_url).  (Replace with your actual link)
+
+
+
+<a href="YOUR_CREDLY_URL_CLOUD_PRACTITIONER">
+  <img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="100"/>
+</a>
+
+<a href="YOUR_CREDLY_URL_SOLUTIONS_ARCHITECT">
+  <img src="https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="100"/>
+</a>
+
+
+
+
+<a href="YOUR_GOOGLE_CLOUD_ASSOCIATE_URL">
+  <img src="https://images.credly.com/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" alt="Google Cloud Certified Associate Cloud Engineer" width="100"/>
+</a>
+
+<a href="YOUR_GOOGLE_CLOUD_PROFESSIONAL_URL">
+  <img src="badges/google-cloud-professional.png" alt="Google Cloud Certified Professional Cloud Engineer" width="100"/>
+</a>
+
 </p>
 
 
