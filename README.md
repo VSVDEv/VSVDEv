@@ -106,7 +106,7 @@
 
 <!-- DynamoDB -->
 <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/amazon_dynamodb/amazon_dynamodb-icon.svg" alt="dynamodb" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/DynamoDB.png/220px-DynamoDB.png" alt="dynamodb" width="40" height="40"/>
 </a>
 
 <!-- BigQuery -->
