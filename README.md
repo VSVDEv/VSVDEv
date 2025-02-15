@@ -83,7 +83,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vertx/vertx-original.svg" alt="vert.x" width="40" height="40"/> 
   </a> 
   <a href="https://micronaut.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/micronaut/micronaut-original.svg" alt="micronaut" width="40" height="40"/> 
+    <img src="https://micronaut.io/wp-content/uploads/2020/11/MIcronautLogo_Horizontal.svg" alt="micronaut" width="40" height="40"/> 
   </a> 
   <a href="https://quarkus.io/" target="_blank" rel="noreferrer"> 
     <img src="https://design.jboss.org/quarkus/logo/final/SVG/quarkus_icon_rgb_default.svg" alt="quarkus" width="40" height="40"/> 
@@ -133,6 +133,7 @@
 <p align="left"> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+   <a href="https://knative.dev" target="_blank" rel="noreferrer"> <img src="https://knative.dev/docs/images/logo/rgb/knative-logo-rgb.png" alt="knative" width="40" height="40"/> </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/> </a>
   <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
